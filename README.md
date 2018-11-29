@@ -49,8 +49,8 @@ to be working on hardware too.
 
 | Level | Task | Deadline |
 | --- | --- | ------ | 
-| 1   | Abstract Submission | 30th Nov'18|
-| 2   | Abstract Acceptance Notification| 10th Dec'18|
+| 1   | Abstract Submission | 10th Dec'18|
+| 2   | Abstract Acceptance Notification| 15th Dec'18|
 | 3   | Final Source Code Submission | 13th Jan'19|
 | 4   | Winners Declaration | On Kshitij'19 Fest|
 
