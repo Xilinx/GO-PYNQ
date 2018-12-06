@@ -32,7 +32,7 @@ to be working on hardware too.
 2. Come up with an idea to solve a problem
 3. Write up an abstract:
     a. Demographics: Team name, Branch, College, Team members skills background etc.
-    b. A single page to describe: Problem statement, Solution proposed (Include Python code compiled on CPU at this stage) 
+    b. A single page to describe: Problem statement, Solution proposed (Include Python code compiled on CPU at this stage or proposed flowchart of algorithm) 
     c. Supporting Block Diagrams (if needed) – limited to 2 diagrams
 4. Abstract entries will be evaluated at Xilinx and around 10 teams will be shortlisted. The shortlisted Institute will be receiving PYNQ-Z2 platform board (based on a request from an Institute/Prof/Dept) – in order to take the ideas onto hardware
 5. Shortlisted teams would be required to bring their idea to life using PYNQ. Submit a 2 minute YouTube (or similar) video of your project. Working source code with results also to be pushed to Github on or before **13th Jan’2019**.
@@ -59,7 +59,7 @@ to be working on hardware too.
 | | Score (1-10) | Criteria | Description |
 | --- | --- | --- | --- |
 | Idea | 10 | Creativity | How creative or innovative is the idea behind the design? |
-| | 10 | Viability | How relevant is the design's use case to a real problem? Is the python code working on CPU in the first place? |
+| | 10 | Viability | How relevant is the design's use case to a real problem? Is the python code working on CPU in the first place? Or does the flowchart lead towards a valid solution? |
 | Open Source and Reproducible | 10 | Open-Source | Are build steps provided, python packaged, available on Github as notebook and source code. |
 | | 10 | Reproducible | Could someone reproduce this work starting from a pynq v2.3 image and going through their notebook. |
 | Implementation | 10 | Feasibilty | Does it actually work? |
