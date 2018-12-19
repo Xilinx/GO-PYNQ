@@ -62,7 +62,7 @@ to be working on hardware too.
 | | 10 | Viability | How relevant is the design's use case to a real problem? Is the python code working on CPU in the first place? Or does the flowchart lead towards a valid solution? |
 | Open Source and Reproducible | 10 | Open-Source | Are build steps provided, python packaged, available on Github as notebook and source code. |
 | | 10 | Reproducible | Could someone reproduce this work starting from a pynq v2.3 image and going through their notebook. |
-| Implementation | 10 | Feasibilty | Does it actually work? |
+| Implementation | 10 | Feasibilty | Does it actually work? You can use existing overlays form the PYNQ community and still build your own application (http://www.pynq.io/community.html)|
 | | 10 | Uniqueness | How well does the app leverage a variety of different open-source APIs and programmable logic? |
 
 - Abstract Evaluation will be judged on Idea category only.
@@ -73,3 +73,40 @@ to be working on hardware too.
 - PYNQ being open sourced project of Xilinx, much of the information is available online: http://www.pynq.io/
 - Checkout the Presentations and Quickstart sections in this repo
 - One pre-determined slot one hour per week, given by Xilinx Employee for support/brainstorming 
+
+## Abstracts Shortlisted!!
+
+- We received immense response of **32 abstracts** from **11 different engineering institutes across India**. Of these, 21 abstracts are  from IIT Kharagpur alone. We saw the teams have come up with relevant applications in the domains like Security, Home Automation, Computer vision, Smart Irrigation, Smart Traffic management, Li-ion battery management using Machine Learning(ML), Automotive Advanced Driver Assistance Systems(ADAS) and other ML applications.
+
+- With many high quality submissions selecting 10 abstracts was indeed a challenge. Hence the judging panel comprising of technical experts has come up with **16 shortlists**. Of which 12 shortlists from IIT KGP are requested to share the 6 boards being provided. Institutes of shortlisted teams will get to keep the PYNQ-Z2 board.
+
+- The shortlisted teams are requested to consult their professor in **Electronics/Electrical/Computer Science/Mathematics Department** and provide the official mailing address to **radhika.pokanati@xilinx.com on or before 21st Dec'18**. The board will be sent only upon request from the professor of the institute. For IIT KGP, all 6 boards will be sent to **one professor** for easy coordination.
+
+## Shortlisted Teams
+
+- Its time to make your awesome idea to work! While you can put efforts to design and build your own overlay(vivado bitstream), it is recommended to use existing overlays form the PYNQ community for faster bring up (http://www.pynq.io/community.html). 
+
+- You will need to submit a 2 minute YouTube (or similar) video of your application. Working source code with results also to be pushed to Github on or before **13th Jan’2019**.
+
+- The S No below does not indicate the ranking order.
+
+| S No | Team Name | Abstract Idea | Institute |
+| --- | --- | --- | --- |
+| 1 | | Proximity Face Detection Lock | Haldia Institute of Technology |
+| 2 | TM190085 | Forest Fires | IIT KGP |
+| 3 | Tanishq | Intrusion Detection using Fuzzy Neural Networks | IIT KGP |
+| 4 | Trigger word detector | Keyword spotting for offline home automation and speech recognition for unlocking the door | IIT KGP |
+| 5 | Virtuality | Military security using Drone | |
+| 6 | Schwifty Horsemen | Border surveillance | IIT KGP |
+| 7 | ASTUTE_FARM | Smart Farming | IIT KGP |
+| 8 | | Smart Power Monitoring system | Koneru Lakshmaiah Education Foundation (KLEF) |
+| 9 | Muete | Glove with extension | IIT KGP |
+| 10 | Rooloo | TRAFYQ - Traffic & Accident Management in India | Sahyadri College of Engineering |
+| 11 | reverse_biased | Hand gesture recognition for home automation | IIT KGP |
+| 12 | HazeGo | Hardware Accelerated Single Image Super resolution using Xilinx PYNQ Platform | IIT KGP |
+| 13 | TM19005D | Advanced ML Based Implementation of Li-ion battery cell balancing and SOC estimation for battery management systems in Electric Vehicles (EVs) using PYNQ platform | IIT KGP |
+| 14 | Virgin | Moving object detection using deep learning in conjunction with Xilinx PYNQ platform | NIT Patna |
+| 15 | TM19006C | Real-time virtual assistance system for safe navigation without vision | IIT KGP |
+| 16 | ROS_Nodes | Eye tracker and braking assistance to avoid crash | IIT KGP |
+
+P.S - We recommend everyone to have unique team name.
