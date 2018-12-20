@@ -62,7 +62,7 @@ to be working on hardware too.
 | | 10 | Viability | How relevant is the design's use case to a real problem? Is the python code working on CPU in the first place? Or does the flowchart lead towards a valid solution? |
 | Open Source and Reproducible | 10 | Open-Source | Are build steps provided, python packaged, available on Github as notebook and source code. |
 | | 10 | Reproducible | Could someone reproduce this work starting from a pynq v2.3 image and going through their notebook. |
-| Implementation | 10 | Feasibilty | Does it actually work? You can use existing overlays form the PYNQ community and still build your own application (http://www.pynq.io/community.html)|
+| Implementation | 10 | Feasibilty | Does it actually work? If you can find a suitable existing overlay form the PYNQ community, we recommend to resuse for faster bring up (http://www.pynq.io/community.html) |
 | | 10 | Uniqueness | How well does the app leverage a variety of different open-source APIs and programmable logic? |
 
 - Abstract Evaluation will be judged on Idea category only.
@@ -84,7 +84,7 @@ to be working on hardware too.
 
 ## Shortlisted Teams
 
-- Its time to make your awesome idea to work! While you can put efforts to design and build your own overlay(vivado bitstream), it is recommended to use existing overlays form the PYNQ community for faster bring up (http://www.pynq.io/community.html). 
+- Its time to make your awesome idea to work! While you can put efforts to design and build your own overlay(vivado bitstream), it is recommended to use existing overlays if suitable from the PYNQ community for faster bring up (http://www.pynq.io/community.html). 
 
 - You will need to submit a 2 minute YouTube (or similar) video of your application. Working source code with results also to be pushed to Github on or before **13th Jan’2019**.
 
