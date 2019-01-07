@@ -24,7 +24,7 @@ These items are listed below.
 2. Consolation cash prize for every shortlisted idea which is then showed
 to be working on hardware too.
 
-3. *Icing on the cake is that the shortlisted teams get to keep the PYNQ-Z2 board!*
+3. *Icing on the cake is that the institutes of shortlisted teams get to keep the PYNQ-Z2 board!*
 
 ## Guidelines
 
@@ -78,7 +78,7 @@ to be working on hardware too.
 
 - We received immense response of **32 abstracts** from **11 different engineering institutes across India**. Of these, 21 abstracts are  from IIT Kharagpur alone. We saw the teams have come up with relevant applications in the domains like Security, Home Automation, Computer vision, Smart Irrigation, Smart Traffic management, Li-ion battery management using Machine Learning(ML), Automotive Advanced Driver Assistance Systems(ADAS) and other ML applications.
 
-- With many high quality submissions selecting 10 abstracts was indeed a challenge. Hence the judging panel comprising of technical experts has come up with **16 shortlists**. Of which 12 shortlists from IIT KGP are requested to share the 6 boards being provided. Institutes of shortlisted teams will get to keep the PYNQ-Z2 board.
+- With many high quality submissions selecting 10 abstracts was indeed a challenge. Hence the judging panel comprising of technical experts has come up with **16 shortlists**. Of which 11 shortlists from IIT KGP are requested to share the 6 boards being provided. **Institutes of shortlisted teams will get to keep the PYNQ-Z2 board**.
 
 - The shortlisted teams are requested to consult their professor in **Electronics/Electrical/Computer Science/Mathematics Department** and provide the official mailing address to **radhika.pokanati@xilinx.com on or before 21st Dec'18**. The board will be sent only upon request from the professor of the institute. For IIT KGP, all 6 boards will be sent to **one professor** for easy coordination.
 
@@ -96,7 +96,7 @@ to be working on hardware too.
 | 2 | TM190085 | Forest Fires | IIT KGP |
 | 3 | Tanishq | Intrusion Detection using Fuzzy Neural Networks | IIT KGP |
 | 4 | Trigger word detector | Keyword spotting for offline home automation and speech recognition for unlocking the door | IIT KGP |
-| 5 | Virtuality | Military security using Drone | |
+| 5 | Virtuality | Military security using Drone | Heritage Institute of Technology |
 | 6 | Schwifty Horsemen | Border surveillance | IIT KGP |
 | 7 | ASTUTE_FARM | Smart Farming | IIT KGP |
 | 8 | | Smart Power Monitoring system | Koneru Lakshmaiah Education Foundation (KLEF) |
