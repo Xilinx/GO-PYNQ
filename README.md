@@ -35,7 +35,7 @@ to be working on hardware too.
     b. A single page to describe: Problem statement, Solution proposed (Include Python code compiled on CPU at this stage or proposed flowchart of algorithm) 
     c. Supporting Block Diagrams (if needed) – limited to 2 diagrams
 4. Abstract entries will be evaluated at Xilinx and around 10 teams will be shortlisted. The shortlisted Institute will be receiving PYNQ-Z2 platform board (based on a request from an Institute/Prof/Dept) – in order to take the ideas onto hardware
-5. Shortlisted teams would be required to bring their idea to life using PYNQ. Submit a 2 minute YouTube (or similar) video of your project. Working source code with results also to be pushed to Github on or before **13th Jan’2019**.
+5. Shortlisted teams would be required to bring their idea to life using PYNQ. Submit a 2 minute YouTube (or similar) video of your project. Working source code with results also to be pushed to Github on or before **17th Jan’2019**.
 6. The submitted apps will be evaluated based on the judging criteria and winners will be announced on the finale event of Kshitij’2019
 
 ## Required Skills
@@ -51,7 +51,7 @@ to be working on hardware too.
 | --- | --- | ------ | 
 | 1   | Abstract Submission | 15th Dec'18|
 | 2   | Abstract Acceptance Notification| 19th Dec'18|
-| 3   | Final Source Code Submission | 13th Jan'19|
+| 3   | Final Source Code Submission | 17th Jan'19|
 | 4   | Winners Declaration | On Kshitij'19 Fest|
 
 ## Judging Criteria
@@ -86,7 +86,7 @@ to be working on hardware too.
 
 - Its time to make your awesome idea to work! While you can put efforts to design and build your own overlay(vivado bitstream), it is recommended to use existing overlays if suitable from the PYNQ community for faster bring up (http://www.pynq.io/community.html). 
 
-- You will need to submit a 2 minute YouTube (or similar) video of your application. Working source code with results also to be pushed to Github on or before **13th Jan’2019**.
+- You will need to submit a 2 minute YouTube (or similar) video of your application. Working source code with results also to be pushed to Github on or before **17th Jan’2019**.
 
 - The S No below does not indicate the ranking order.
 
