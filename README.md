@@ -111,7 +111,7 @@ to be working on hardware too.
 
 P.S - We recommend everyone to have unique team name.
 
-## GO-PYNQ - KSHITIJ 2019 WINNERS
+## KSHITIJ 2019 Winners
 
 |Team Name | Team Members | Description | Video Demo | Source Code | Result |
 | --- | --- | --- | --- | --- | --- |
@@ -119,4 +119,12 @@ P.S - We recommend everyone to have unique team name.
 |ROS_Nodes | Rishabh S, Anand J, Apoorve S and Arvind J from Autonomous Ground Vehicle Research Group (AGV), IIT Kharagpur | Eye tracker and braking assistance system to avoid crash |[![Alt text](https://img.youtube.com/vi/ViSLuxz1fI0/0.jpg)](https://youtu.be/ViSLuxz1fI0 "Click to Watch Demo on Youtube") | [PYNQ Source Code](https://github.com/reyanshsolis/safety_driving_assist?fbclid=IwAR0FdtdHO_uZ3BTGlDVeSMXGZ64TPNln_nl6EEoz5mv7Cxp1W3-9MjpRuKg "Source Code on Github") | 2nd Prize |
 |SPMOS | Koneru Lakshmaiah Education Foundation (KLEF) | Mobile Applicaiton based power monitoring system which tracks failures of power nodes| [![Alt text](https://img.youtube.com/vi/fQm5ON-TGN0/0.jpg)](https://youtu.be/fQm5ON-TGN0 "Click to Watch Demo on Youtube") | [PYNQ Source Code](https://github.com/Ashustar/Smart-Power-Monitoring-System "Source Code on Github") | 3rd Prize |
 
+## KSHITIJ 2019 Consolation Prize Winners
 
+|Team Name | Team Members | Description | Video Demo | Source Code |
+| --- | --- | --- | --- | --- |
+|Virtuality|Heritage Institute Of Technology, Kolkata|Military Security using Drone|[Demo Video](https://photos.google.com/share/AF1QipOFpPO-lXZwGWcShQExzBctt4xVENy9t2RDJLGWCSf5QTCUMJwu6TGw7SPad9i1bQ?key=SFVndkNsaWtseTdEblBicnQtRUpwdHhWSF9Ec2hR)|[Source Code](https://github.com/Xilinx/GO-PYNQ/tree/master/Kshitij_2019/projects/Virtuality_cprize)|
+|Schwifty Horsemen|Atul, Sourav A, IIT KGP| Border Surveillance| [![Alt text](https://img.youtube.com/vi/zkeN-tm1NVU/1.jpg)](https://youtu.be/zkeN-tm1NVU)|[Source Code](https://github.com/sourav2996/XILINIX_INNOVATION_CHALLENGE_2019)|
+|ASTUTE_FARM|Santosh T, Abhishek G, Jayesh S, Neel K, IIT KGP| Smart Farming|[![Alt text](https://img.youtube.com/vi/XNVFBInKstE/1.jpg)](https://youtu.be/XNVFBInKstE)|[Source Code](https://github.com/googolplexus/Xilinx-innovation-challenge)|
+|reverse_biased|Sumegh, IIT  KGP| Hand Gesture Recognition for Home Automation| [Demo Video](https://drive.google.com/drive/folders/1d2Te67uuXUNkqjz2b3YCmYVUTbkFCApd)| [Source Code](https://github.com/Sumegh-git/Xilinx-Innovation-Challenge)|
+|TM19005D|Nagesh P, Vibhor J, Shyama A, Manuj A, IIT KGP|Advanced ML Based Implementation of Li-ion Battery Cell Balancing| [Demo Video](https://drive.google.com/drive/folders/1g2UlYuMto0GDRNEFOB7xZIma7MYhxeBi)|[Source Code](https://github.com/vib-hor/Go-PYNQ)|
