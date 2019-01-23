@@ -1,0 +1,13 @@
+In this project we have used many IOT devices.Apart from that we have used PYNQ Platform for both hardware and software implementation.
+we have used machine algorithm to estimate the health of power grid as well as life expectancy of transformers based on their characteristics.
+Pynq platform is specially used to implement Machine learning algorithms also to control all the IOT modules included in this project.
+In the power grid,every transfromer and pole has a transmitter unit. Its major function is to send data to receiver module which is consists of Pynq and other IOT devices. 
+
+Main Modules used:
+ 1.Xilinx Pynq z2.
+ 2.Node MCU 1.0
+ 3.Blynk IOT platform
+ 4.ACB (Automatic Switch Gear)
+Used IDE's:
+  1.Jupyter notebook.
+  2.Arduino IDE.

@@ -1,0 +1,14 @@
+Hello 
+ ---------------------------------------------------------
+|     SMART POWER MONITORING powered by SPMOS             |
+ ---------------------------------------------------------
+|Transformer 1
+|AREA : ponnur Line no 21, Street 52
+|Power UNITS :120
+|Health of Transformer:bad
+|Life Expectency :10
+|Future Faults :no error
+|Grid Condition :bad
+|Short circuits :1
+|Problem at Pole :0at time :_
+|Power Theft :1
