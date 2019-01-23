@@ -110,3 +110,11 @@ to be working on hardware too.
 | 16 | ROS_Nodes | Eye tracker and braking assistance to avoid crash | IIT KGP |
 
 P.S - We recommend everyone to have unique team name.
+
+## GO-PYNQ - KSHITIJ 2019 WINNERS
+
+|Team Name | Team Members | Description | Video Demo | Source Code | Result |
+| --- | --- | --- | --- | --- | --- |
+|TM19006C | Sangeet K M, Subhrajeet P, Siddharth D and Dhiraj Barnwal from IIT Kharagpur| Real-time virtual assistance system for safe navigation without Vision | [Vision Assistance System]( https://www.youtube.com/watch?v=jMrE1Hx3wkQ "Demo on Youtube") | [PYNQ Source Code](https://github.com/sangeet259/ViSyBl "Source Code on Github") | 1st Prize |
+|ROS_Nodes | Rishabh S, Anand J, Apoorve S and Arvind J from Autonomous Ground Vehicle Research Group (AGV), IIT Kharagpur | Eye tracker and braking assistance system to avoid crash |[Vehicle Crash Assistance Sytem](https://youtu.be/ViSLuxz1fI0 "Demo on Youtube") | [PYNQ Source Code](https://github.com/reyanshsolis/safety_driving_assist?fbclid=IwAR0FdtdHO_uZ3BTGlDVeSMXGZ64TPNln_nl6EEoz5mv7Cxp1W3-9MjpRuKg "Source Code on Github") | 2nd Prize |
+|SPMOS | Koneru Lakshmaiah Education Foundation (KLEF) | Mobile Applicaiton based power monitoring system which tracks failures of power nodes| [Smart Power Monitoring Sytem](https://youtu.be/fQm5ON-TGN0 "Demo on Youtube") | [PYNQ Source Code](https://github.com/Ashustar/Smart-Power-Monitoring-System "Source Code on Github") | 3rd Prize |
