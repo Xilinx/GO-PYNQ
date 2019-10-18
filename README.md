@@ -1,4 +1,4 @@
-# “GO PYNQ - 2019 (Kshitij - IIT Kharagpur” 
+# “GO PYNQ - 2019 (Kshitij - IIT Kharagpur)” 
 - Contest Sponsored by Xilinx for Kshitij’2019
 ![GO PYNQ](./logo.JPG)
 
