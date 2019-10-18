@@ -1,5 +1,5 @@
 # “GO PYNQ” 
-- Contest Sponsored by Xilinx for Kshitij’2019
+- Contest Sponsored by Xilinx
 ![GO PYNQ](./logo.JPG)
 
 ## Moto
