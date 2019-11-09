@@ -11,3 +11,12 @@
 
 - **PYNQ Workshop Material can be accessed here:**
 	https://github.com/Xilinx/PYNQ_Workshop/
+
+- **To know more about Ultra96 board:**
+	http://zedboard.org/product/ultra96
+
+- **Github documentation for Ultra96:**
+	https://github.com/96boards/documentation/tree/master/consumer/ultra96
+	
+- **Github link for Mezzanine Sensors:**
+	https://github.com/96boards/Sensor_Mezzanine_Getting_Started
