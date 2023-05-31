@@ -1,3 +1,5 @@
+The GO-PYNQ repository is no longer supported.
+
 # “GO PYNQ” 
 - Contest Sponsored by Xilinx
 ![GO PYNQ](./logo.JPG)
